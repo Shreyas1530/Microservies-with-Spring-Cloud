@@ -1,0 +1,6 @@
+com\panda\telecom\calldetails\controller\CallDetailsController.class
+com\panda\telecom\calldetails\repository\CallDetailsRepository.class
+com\panda\telecom\calldetails\dto\CallDetailsDTO.class
+com\panda\telecom\calldetails\CallDetailsApplication.class
+com\panda\telecom\calldetails\entity\CallDetails.class
+com\panda\telecom\calldetails\service\CallDetailsService.class
