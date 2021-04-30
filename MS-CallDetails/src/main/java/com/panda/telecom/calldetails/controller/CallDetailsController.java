@@ -41,5 +41,11 @@ public class CallDetailsController {
 	public String getAllHi() {
 		return "Hi All";
 	}
+	
+	
+	@GetMapping("/Samplehi")
+	public String getSampleHi() {
+		return "Hi  Sample";
+	}
 
 }
