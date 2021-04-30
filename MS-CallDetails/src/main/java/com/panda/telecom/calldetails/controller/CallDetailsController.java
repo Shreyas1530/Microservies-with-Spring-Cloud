@@ -36,5 +36,10 @@ public class CallDetailsController {
 	public String getHi() {
 		return "Hi";
 	}
+	
+	@GetMapping("/Allhi")
+	public String getAllHi() {
+		return "Hi All";
+	}
 
 }
