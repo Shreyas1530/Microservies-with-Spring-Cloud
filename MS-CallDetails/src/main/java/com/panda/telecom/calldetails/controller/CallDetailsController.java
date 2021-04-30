@@ -37,6 +37,7 @@ public class CallDetailsController {
 		return "Hi";
 	}
 	
+
 	@GetMapping("/Allhi")
 	public String getAllHi() {
 		return "Hi All";
@@ -46,6 +47,12 @@ public class CallDetailsController {
 	@GetMapping("/Samplehi")
 	public String getSampleHi() {
 		return "Hi  Sample";
+	}
+
+	@GetMapping("/Somehi")
+	public String getSomeHi() {
+		return "Hi Some Hi";
+
 	}
 
 }

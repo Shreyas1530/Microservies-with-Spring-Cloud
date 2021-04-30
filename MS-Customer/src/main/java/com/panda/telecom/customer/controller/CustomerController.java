@@ -54,6 +54,12 @@ public class CustomerController {
 		List<Long> friends = new RestTemplate().getForObject("http://localhost:8300/customers/" + phoneNo + "/friends", List.class);
 		custDTO.setFriendAndFamily(friends);
 		return custDTO;
+	} 
+	
+	@GetMapping("/Somehi")
+	public String getSomeHi() {
+		return "Hi Some Hi";
+
 	}
 
 

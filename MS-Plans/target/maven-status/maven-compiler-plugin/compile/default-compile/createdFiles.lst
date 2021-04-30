@@ -1,6 +1,6 @@
-com\panda\telecom\plan\entity\Plan.class
-com\panda\telecom\plan\service\PlanService.class
-com\panda\telcom\plans\PlanApplication.class
-com\panda\telecom\plan\controller\PlanController.class
-com\panda\telecom\plan\repository\PlanRepository.class
-com\panda\telecom\plan\dto\PlanDTO.class
+com\panda\telecom\plans\entity\Plan.class
+com\panda\telecom\plans\repository\PlanRepository.class
+com\panda\telecom\plans\dto\PlanDTO.class
+com\panda\telecom\plans\controller\PlanController.class
+com\panda\telecom\plans\service\PlanService.class
+com\panda\telecom\plans\PlanApplication.class

@@ -1,6 +1,7 @@
-com\panda\telecom\friend\repository\FriendFamilyRepository.class
-com\panda\telecom\friend\entity\FriendFamily.class
-com\panda\telecom\friend\service\FriendFamilyService.class
-com\panda\telecom\friend\dto\FriendFamilyDTO.class
-com\panda\telecom\friend\controller\FriendFamilyController.class
+com\panda\telcom\FriendsFamily\controller\FriendFamilyController.class
+com\panda\telcom\FriendsFamily\dto\FriendFamilyDTO.class
+com\panda\telcom\FriendsFamily\entity\FriendFamily.class
+com\panda\telcom\FriendsFamily\controller\Friend.class
+com\panda\telcom\FriendsFamily\service\FriendFamilyService.class
+com\panda\telcom\FriendsFamily\repository\FriendFamilyRepository.class
 com\panda\telcom\FriendsFamily\FriendFamilyApplication.class
