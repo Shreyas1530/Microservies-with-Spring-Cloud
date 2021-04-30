@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: 91967
+Build-Jdk: 15.0.1
+Implementation-Title: Customer
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.panda.miceroservices.demo
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/MS-Customer
+Created-By: Maven Integration for Eclipse
+
